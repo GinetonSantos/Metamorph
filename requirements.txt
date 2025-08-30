@@ -1,0 +1,19 @@
+# Dependências do BOT Trading Binance Spot
+
+# Binance API
+python-binance==1.0.19
+
+# Telegram API
+telethon==1.36.0
+
+# Variáveis de ambiente
+python-dotenv==1.0.0
+
+# Dependências do sistema (já incluídas no Python)
+# tkinter - Built-in (GUI)
+# threading - Built-in
+# asyncio - Built-in
+# os - Built-in  
+# re - Built-in
+# datetime - Built-in
+# math - Built-in

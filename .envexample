@@ -1,0 +1,19 @@
+# .envexample - Template de configuração
+# Copie este arquivo para .env e preencha com suas informações
+
+# TELEGRAM CONFIG
+# Obtenha em: https://my.telegram.org/apps
+TELEGRAM_API_ID=your_api_id_here
+TELEGRAM_API_HASH=your_api_hash_here
+TELEGRAM_PHONE=+5511999999999
+TELEGRAM_GROUP=@your_group_name
+
+# BINANCE CONFIG
+# Obtenha em: https://binance.com -> Perfil -> API Management
+# IMPORTANTE: Nunca habilite withdrawals!
+BINANCE_API_KEY=your_binance_api_key_here
+BINANCE_API_SECRET=your_binance_api_secret_here
+
+# SIMULAÇÃO (True = teste, False = real)
+# Recomendado: Sempre teste primeiro em modo simulação
+SIMULATION_MODE=True
