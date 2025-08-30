@@ -100,6 +100,7 @@ SIMULATION_MODE=True
 ## 🚀 Execução
 
 ### Interface Gráfica (Recomendado)
+<img width="1364" height="639" alt="image" src="https://github.com/user-attachments/assets/dbb85646-b511-46e5-a17d-06e56dbd24bc" />
 
 #### Windows (Sem Console):
 ```cmd
