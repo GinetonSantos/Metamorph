@@ -151,6 +151,8 @@ python3 main.py
 - **📈 Relatório IR**: Resumo mensal para declaração
 - **💾 Exportar Operações**: Arquivo CSV para contabilidade
 
+##Observação importante: Na primeira execução será solicitado no CLI um código enviado para o Telegram do número cadastrado para registro de segurança da biblioteca Telethon.
+
 ## 💰 Sistema de Percentuais
 
 O bot adapta automaticamente o percentual de investimento:
