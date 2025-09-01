@@ -50,7 +50,7 @@ sudo apt install python3 python3-pip git
 
 #### 2. Baixar o Bot
 ```bash
-git clone https://github.com/seu-usuario/metamorph-trading-bot.git
+git clone https://github.com/GinetonSantos/metamorph-trading-bot.git
 cd metamorph-trading-bot
 ```
 
